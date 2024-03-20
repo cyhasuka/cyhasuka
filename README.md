@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 My passion lies in developing cutting-edge algorithms for Lidar perception in Robotics, Autonomous Car and Roadside Edge Computing applications.
+- 🎮 In addition to my professional work, I'm also a digital enthusiast, Embedded DIYer and a member of the ASUS ROG Explorer program.
+- 📫 Feel free to reach me at [mail@cuiyuhao.com]
+- 🌐 Visit my blog at: [https://cuiyuhao.com] (Chinese only)
 <!--
 **cyhasuka/cyhasuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
