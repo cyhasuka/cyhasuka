@@ -4,6 +4,7 @@
 - 🎮 In addition to my professional work, I'm also a digital enthusiast, Embedded DIYer and a member of the ASUS ROG Explorer program.
 - 📫 Feel free to reach me at [mail@cuiyuhao.com]
 - 🌐 Visit my blog at: [https://cuiyuhao.com] (Chinese only)
+- 👯 GitHub Visitors: ![Visitors](https://api.visitorbadge.io/api/visitors?path=cuiyuhao.com&label=%20Visitors&labelColor=%232ccce4&countColor=%23d9e3f0&style=flat&labelStyle=none)
 <!--
 **cyhasuka/cyhasuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
