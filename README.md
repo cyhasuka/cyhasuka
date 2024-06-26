@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👯 GitHub Visitors: ![Visitors](https://api.visitorbadge.io/api/visitors?path=cuiyuhao.com&label=&labelColor=%23ffffff&countColor=%23ffffff&style=flat-square&labelStyle=none)
-- 🌱 My passion lies in developing cutting-edge algorithms for Lidar perception in Robotics, Autonomous Car and Roadside Edge Computing applications.
+- 🌱 My passion lies in developing cutting-edge algorithms for LLMs RAG systems, Lidar perception in Robotics, Autonomous Car and Roadside Edge Computing applications.
 - 🎮 In addition to my professional work, I'm also a digital enthusiast, Embedded DIYer and a member of the ASUS ROG Explorer program.
 - 📫 Feel free to reach me at [mail@cuiyuhao.com]
 - 🌐 Visit my blog at: [https://cuiyuhao.com] (Chinese only)
