@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cyhasuka&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&count_private=true&line_height=25&include_all_commits=true" alt="stat" />
+
 - 👯 GitHub Visitors: ![Visitors](https://api.visitorbadge.io/api/visitors?path=cuiyuhao.com&label=&labelColor=%23ffffff&countColor=%23ffffff&style=flat-square&labelStyle=none)
-- 🌱 My passion lies in developing cutting-edge algorithms for LLMs RAG systems, Lidar perception in Robotics, Autonomous Car and Roadside Edge Computing applications.
-- 🎮 In addition to my professional work, I'm also a digital enthusiast, Embedded DIYer and a member of the ASUS ROG Explorer program.
+- 🌱 My passion lies in developing cutting-edge algorithms for LLMs RAG systems, Lidar perception, Autonomous Car and Roadside Edge Computing applications.
+- 🎮 In addition to my professional work, I'm also a digital enthusiast, Embedded DIYer.
 - 📫 Feel free to reach me at [mail@cuiyuhao.com]
 - 🌐 Visit my blog at: [https://cuiyuhao.com] (Chinese only)
 
